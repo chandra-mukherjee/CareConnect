@@ -20,23 +20,23 @@ body{
 
 
 
-/* width */
+
 ::-webkit-scrollbar {
     width: 5px;
   }
   
-  /* Track */
+ 
   ::-webkit-scrollbar-track {
     background: #f1f1f1; 
   }
    
-  /* Handle */
+ 
   ::-webkit-scrollbar-thumb {
     background: #888; 
     border-radius: 12px;
   }
   
-  /* Handle on hover */
+
   ::-webkit-scrollbar-thumb:hover {
     background: #555; 
   }
@@ -91,7 +91,7 @@ body{
 
 
 
-/* -----------Buttons---------------*/
+
 .btn{
     cursor: pointer;
     padding: 8px 20px;
@@ -123,17 +123,17 @@ body{
 
 .btn-primary-soft{
     background-color: #D8EBFA ;
-    /*border: 1px solid rgba(57,108,240,0.1) ;*/    color: #1969AA;
+      color: #1969AA;
     font-weight: 500;
     font-size: 16px;
     border: none;
-    /*box-shadow: 0 3px 5px 0 rgba(57,108,240,0.3)*/
+ 
 }
 
 
 .btn-primary-soft:hover{
     background-color: var(--primarycolor) ;
-    /*border: 1px solid rgba(57,108,240,0.1) ;*/
+
     color: #fff ;
     box-shadow: 0 3px 5px 0 rgba(57,108,240,0.3);
 }
@@ -493,8 +493,7 @@ input[type=search]:focus {
   border: 2px solid #c9cbce9f;
   border-radius: 7px;
   color: var(--primarycolor);
-  /*background-color: #d8ebfa25 ;*/
-  /*box-shadow: 0 3px 5px 0 rgba(95, 95, 97, 0.3);*/
+
 }
 
 
