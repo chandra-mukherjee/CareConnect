@@ -52,8 +52,6 @@
     $username=$userfetch["docname"];
 
 
-    //echo $userid;
-    //echo $username;
     
     ?>
     <div class="container">
