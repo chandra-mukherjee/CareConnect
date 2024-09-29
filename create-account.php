@@ -80,7 +80,7 @@ if($_POST){
 
     
 }else{
-    //header('location: signup.php');
+  
     $error='<label for="promter" class="form-label"></label>';
 }
 
