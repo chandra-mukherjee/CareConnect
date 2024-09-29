@@ -163,20 +163,8 @@
 
                 ?>
                   
-                <tr>
-                   <td colspan="4">
-                       <center>
-                        <div class="abc scroll">
-                        <table width="93%" class="sub-table scrolldown" border="0">
-                        <thead>
-                        <tr>
-                                <th class="table-headin">
-                                    Patient name
-                                </th>
-                                <th class="table-headin">
-                                    
-                                    Appointment number
-                                    
+              
+                
                                 </th>
                                
                                 <th class="table-headin">
