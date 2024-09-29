@@ -32,7 +32,7 @@ $date = date('Y-m-d');
 $_SESSION["date"]=$date;
 
 
-//import database
+
 include("connection.php");
 
 
