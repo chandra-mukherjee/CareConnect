@@ -240,9 +240,7 @@ CREATE TABLE IF NOT EXISTS `webuser` (
   PRIMARY KEY (`email`)
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
---
--- Dumping data for table `webuser`
---
+
 
 INSERT INTO `webuser` (`email`, `usertype`) VALUES
 ('admin@edoc.com', 'a'),
