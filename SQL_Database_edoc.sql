@@ -1,6 +1,5 @@
 
--- version 4.8.5
--- https://www.phpmyadmin.net/
+
 --
 -- Host: 127.0.0.1:3306
 -- Generation Time: Jun 19, 2022 at 01:39 PM
