@@ -53,7 +53,7 @@
                 if ($checker->num_rows==1){
 
 
-                    //   Patient dashbord
+                  
                     $_SESSION['user']=$email;
                     $_SESSION['usertype']='p';
                     
