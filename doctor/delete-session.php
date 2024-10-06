@@ -18,7 +18,7 @@
         $id=$_GET["id"];
     
         $sql= $database->query("delete from schedule where scheduleid='$id';");
-        //$sql= $database->query("delete from doctor where docemail='$email';");
+     
       
         header("location: schedule.php");
     }
