@@ -289,7 +289,7 @@
                                         echo "</tr>";
                            
                              
-                                //     $row=$result->fetch_assoc();
+                             
                                 //     $appoid=$row["appoid"];
                                 //     $scheduleid=$row["scheduleid"];
                                 //     $title=$row["title"];
