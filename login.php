@@ -31,7 +31,7 @@
     $_SESSION["date"]=$date;
     
 
-    //import database
+   
     include("connection.php");
 
     
