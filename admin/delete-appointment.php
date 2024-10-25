@@ -20,7 +20,7 @@
         //$email=($result001->fetch_assoc())["docemail"];
         $sql= $database->query("delete from appointment where appoid='$id';");
         //$sql= $database->query("delete from doctor where docemail='$email';");
-        //print_r($email);
+        
         header("location: appointment.php");
     }
 
