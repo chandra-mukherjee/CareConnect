@@ -17,7 +17,7 @@
         include("../connection.php");
         $id=$_GET["id"];
         
-        //$email=($result001->fetch_assoc())["docemail"];
+
         $sql= $database->query("delete from appointment where appoid='$id';");
    
         header("location: appointment.php");
