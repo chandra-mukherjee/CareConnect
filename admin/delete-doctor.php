@@ -13,7 +13,6 @@
     
     
     if($_GET){
-        //import database
         include("../connection.php");
         $id=$_GET["id"];
         $result001= $database->query("select * from doctor where docid=$id;");
