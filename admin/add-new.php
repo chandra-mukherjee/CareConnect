@@ -38,7 +38,7 @@
 
 
     if($_POST){
-        //print_r($_POST);
+
         $result= $database->query("select * from webuser");
         $name=$_POST['name'];
         $nic=$_POST['nic'];
