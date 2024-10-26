@@ -3,7 +3,6 @@
     
     
 
-    //import database
     include("../connection.php");
 
 
