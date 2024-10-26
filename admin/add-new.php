@@ -73,7 +73,7 @@
         
         
     }else{
-        //header('location: signup.php');
+      
         $error='3';
     }
     
