@@ -60,8 +60,7 @@
                 $database->query($sql1);
                 $database->query($sql2);
 
-                //echo $sql1;
-                //echo $sql2;
+            
                 $error= '4';
                 
             }
