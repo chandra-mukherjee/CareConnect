@@ -9,7 +9,7 @@
 
 
     if($_POST){
-        //print_r($_POST);
+      
         $result= $database->query("select * from webuser");
         $name=$_POST['name'];
         $oldemail=$_POST["oldemail"];
@@ -34,8 +34,7 @@
             echo $id2."jdfjdfdh";
             if($id2!=$id){
                 $error='1';
-                //$resultqq1= $database->query("select * from doctor where docemail='$email';");
-                //$did= $resultqq1->fetch_assoc()["docid"];
+             
                 //if($resultqq1->num_rows==1){
                     
             }else{
