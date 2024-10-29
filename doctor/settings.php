@@ -44,7 +44,7 @@
     }
     
 
-    //import database
+ 
     include("../connection.php");
     $userrow = $database->query("select * from doctor where docemail='$useremail'");
     $userfetch=$userrow->fetch_assoc();
