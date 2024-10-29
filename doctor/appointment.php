@@ -131,7 +131,7 @@
 
                 </tr>
                
-                <!-- <tr>
+                
                     <td colspan="4" >
                         <div style="display: flex;margin-top: 40px;">
                         <div class="heading-main12" style="margin-left: 45px;font-size:20px;color:rgb(49, 49, 49);margin-top: 5px;">Schedule a Session</div>
