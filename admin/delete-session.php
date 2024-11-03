@@ -20,7 +20,7 @@
     
         $sql= $database->query("delete from schedule where scheduleid='$id';");
       
-        //print_r($email);
+    
         header("location: schedule.php");
     }
 
