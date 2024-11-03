@@ -44,8 +44,7 @@
     $username=$userfetch["pname"];
 
 
-    //echo $userid;
-    //echo $username;
+  
     
 
 
